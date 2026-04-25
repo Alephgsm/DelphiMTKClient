@@ -47,6 +47,16 @@ Default commercial usage rules are available in [`LICENSE_TERMS.md`](LICENSE_TER
 
 The buyer may use the source code only in their own private/internal/commercial project. The buyer is not allowed to sell, resell, publish for free, gift, forward, mirror, upload publicly or share the source code with other people or organizations.
 
+The buyer is also not allowed to exchange, trade, swap or barter the source code with other teams, developers, companies or source-code owners.
+
+All rights are reserved by Alephgsm / Alephgsm.com unless explicitly granted in writing.
+
+## Support
+
+Default support rules are available in [`docs/SUPPORT_POLICY.md`](docs/SUPPORT_POLICY.md).
+
+Licensed buyers receive one year of minor updates and bug-fix support by default, unless a separate written agreement says otherwise.
+
 ## Disclaimer
 
 DelphiMTKClient is intended for lawful development, research and authorized service software creation. Device support and feature behavior depend on chipset, firmware, boot mode, selected DA, protocol mode and security state.

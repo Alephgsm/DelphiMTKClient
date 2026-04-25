@@ -38,6 +38,15 @@ It is a **source code product** for:
 
 If your goal is to own and develop your own MTK software instead of depending on a closed binary, this project is designed for that use case.
 
+## Documentation
+
+- [Feature Matrix](docs/FEATURES.md)
+- [Buyer Guide](docs/BUYER_GUIDE.md)
+- [Compile and Debug Guide](docs/COMPILE_AND_DEBUG.md)
+- [Support Policy](docs/SUPPORT_POLICY.md)
+- [Media Kit](docs/MEDIA_KIT.md)
+- [Commercial License Terms](LICENSE_TERMS.md)
+
 ## Core Protocol Families
 
 DelphiMTKClient includes implementation paths for the major MediaTek workflow families:
@@ -238,7 +247,9 @@ The full DelphiMTKClient source code is available by private licensing.
 
 Default commercial usage rules are described in [`LICENSE_TERMS.md`](LICENSE_TERMS.md).
 
-In short: licensed buyers may use the source code only in their own private/internal/commercial project. They may not resell it, publish it for free, gift it to others, upload it publicly, or share it with third parties.
+In short: licensed buyers may use the source code only in their own private/internal/commercial project. They may not resell it, exchange it with other teams, publish it for free, gift it to others, upload it publicly, or share it with third parties.
+
+Support terms are described in [`docs/SUPPORT_POLICY.md`](docs/SUPPORT_POLICY.md). One year of minor updates and bug-fix support is included for licensed buyers by default, unless a separate written agreement says otherwise.
 
 For pricing, licensing terms, technical questions or purchase requests, contact:
 

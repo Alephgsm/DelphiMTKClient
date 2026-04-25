@@ -4,6 +4,8 @@ These terms describe the default usage rules for the commercial DelphiMTKClient 
 
 This public GitHub repository is only a product showcase. The full source code is provided privately to licensed buyers only.
 
+All rights are reserved by **Alephgsm** / **Alephgsm.com** unless a written agreement says otherwise.
+
 ## 1. Personal / Internal Project Use Only
 
 The licensed developer or company may use the DelphiMTKClient source code only inside their own private, internal or commercial software project.
@@ -45,30 +47,39 @@ The buyer is not allowed to give, gift, share, forward or donate the DelphiMTKCl
 
 The license is for the original buyer only, unless a written agreement explicitly allows team or company access.
 
-## 5. No Public Forks or Mirrors
+## 5. No Exchange / Trade With Other Teams
+
+The buyer is not allowed to exchange, trade, swap or barter the DelphiMTKClient source code with other developers, teams, companies, groups or source-code owners.
+
+This restriction applies even if the other party offers another source code, tool, service, loader, account, API, exploit, device file or any other digital product in return.
+
+Source-code exchange is treated the same as unauthorized sharing and is not permitted.
+
+## 6. No Public Forks or Mirrors
 
 The buyer is not allowed to create public forks, public mirrors or public backup repositories containing the commercial source code.
 
 Private backup is allowed only for the buyer's own secure internal use.
 
-## 6. Compiled Product Use
+## 7. Compiled Product Use
 
 The buyer may use the source code as a base for their own compiled software product, subject to the purchased license agreement.
 
 However, the buyer must not distribute the DelphiMTKClient commercial source code itself with the compiled product unless written permission is provided.
 
-## 7. Team / Company Access
+## 8. Team / Company Access
 
 If the source code is purchased for a company or team, access must be limited to authorized developers working on that same licensed project.
 
 The company or team must not share the source code with external contractors, customers, partners or third parties without written permission.
 
-## 8. Prohibited Actions
+## 9. Prohibited Actions
 
 The buyer must not:
 
 - Sell the source code.
 - Resell the source code.
+- Exchange, trade, swap or barter the source code with another team or developer.
 - Publish the source code for free.
 - Gift the source code to another person.
 - Upload the source code to public repositories.
@@ -76,7 +87,7 @@ The buyer must not:
 - Extract modules and sell them separately.
 - Remove ownership notices and present the source code package as their own original commercial source package.
 
-## 9. Allowed Actions
+## 10. Allowed Actions
 
 The buyer may:
 
@@ -88,13 +99,15 @@ The buyer may:
 - Build a compiled product based on the licensed project.
 - Keep private backups for their own internal use.
 
-## 10. Ownership
+## 11. Ownership
 
-DelphiMTKClient remains a commercial source code product owned by its original owner.
+DelphiMTKClient remains a commercial source code product owned by **Alephgsm** / **Alephgsm.com**.
 
 Purchasing a license gives the buyer usage rights according to the license agreement. It does not transfer ownership of the original source code product.
 
-## 11. Contact
+All ownership rights, product rights, branding rights, documentation rights and commercial distribution rights are reserved by Alephgsm / Alephgsm.com unless explicitly granted in writing.
+
+## 12. Contact
 
 For licensing, team access, custom permission or commercial questions, contact:
 
