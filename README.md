@@ -236,6 +236,10 @@ It does not include:
 
 The full DelphiMTKClient source code is available by private licensing.
 
+Default commercial usage rules are described in [`LICENSE_TERMS.md`](LICENSE_TERMS.md).
+
+In short: licensed buyers may use the source code only in their own private/internal/commercial project. They may not resell it, publish it for free, gift it to others, upload it publicly, or share it with third parties.
+
 For pricing, licensing terms, technical questions or purchase requests, contact:
 
 https://t.me/GsmCoder

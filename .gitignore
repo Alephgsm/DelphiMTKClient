@@ -37,6 +37,7 @@ release/
 credentials*
 secret*
 license*
+!LICENSE_TERMS.md
 
 # IDE / OS files
 .idea/

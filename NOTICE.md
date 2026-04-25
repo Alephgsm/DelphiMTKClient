@@ -43,6 +43,10 @@ The commercial package is intended for developers, companies, software owners an
 
 Redistribution, resale, public sharing or unauthorized copying of the commercial source package is not permitted unless explicitly allowed by the licensing agreement.
 
+Default commercial usage rules are available in [`LICENSE_TERMS.md`](LICENSE_TERMS.md).
+
+The buyer may use the source code only in their own private/internal/commercial project. The buyer is not allowed to sell, resell, publish for free, gift, forward, mirror, upload publicly or share the source code with other people or organizations.
+
 ## Disclaimer
 
 DelphiMTKClient is intended for lawful development, research and authorized service software creation. Device support and feature behavior depend on chipset, firmware, boot mode, selected DA, protocol mode and security state.
