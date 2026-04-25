@@ -1,0 +1,47 @@
+# Public showcase repository
+
+# Do not publish commercial source package
+Source/
+src/
+bin/
+lib/
+payloads/
+loaders/
+private/
+commercial/
+customer/
+release/
+*.exe
+*.dll
+*.bpl
+*.dcu
+*.res
+*.map
+*.local
+*.identcache
+*.skincfg
+*.deployproj
+*.dproj.local
+*.groupproj.local
+*.dsk
+*.stat
+
+# Secrets and private material
+*.key
+*.pem
+*.pfx
+*.cer
+*.crt
+*.json
+*.env
+credentials*
+secret*
+license*
+
+# IDE / OS files
+.idea/
+.vscode/
+__history/
+__recovery/
+Thumbs.db
+Desktop.ini
