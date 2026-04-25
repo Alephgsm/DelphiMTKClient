@@ -41,7 +41,6 @@ If your goal is to own and develop your own MTK software instead of depending on
 ## Documentation
 
 - [Feature Matrix](docs/FEATURES.md)
-- [Website Feature List](docs/WEBSITE_FEATURE_LIST.md)
 - [Buyer Guide](docs/BUYER_GUIDE.md)
 - [Compile and Debug Guide](docs/COMPILE_AND_DEBUG.md)
 - [Support Policy](docs/SUPPORT_POLICY.md)

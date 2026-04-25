@@ -12,12 +12,6 @@ Feature matrix:
 https://github.com/Alephgsm/DelphiMTKClient/blob/main/docs/FEATURES.md
 ```
 
-Website feature list:
-
-```text
-https://github.com/Alephgsm/DelphiMTKClient/blob/main/docs/WEBSITE_FEATURE_LIST.md
-```
-
 ## Contact
 
 https://t.me/GsmCoder
