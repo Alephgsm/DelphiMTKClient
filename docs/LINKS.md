@@ -4,6 +4,20 @@
 
 https://alephgsm.com/2026/04/25/delphimtkclient/
 
+## Feature Documents
+
+Feature matrix:
+
+```text
+https://github.com/Alephgsm/DelphiMTKClient/blob/main/docs/FEATURES.md
+```
+
+Website feature list:
+
+```text
+https://github.com/Alephgsm/DelphiMTKClient/blob/main/docs/WEBSITE_FEATURE_LIST.md
+```
+
 ## Contact
 
 https://t.me/GsmCoder
